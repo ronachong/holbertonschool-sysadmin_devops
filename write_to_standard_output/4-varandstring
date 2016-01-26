@@ -1,0 +1,3 @@
+#!/bin/bash
+echo Hello, home directory is $HOME and my username is $LOGNAME!
+
