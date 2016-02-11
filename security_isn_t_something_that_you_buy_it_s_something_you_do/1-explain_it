@@ -3,4 +3,7 @@ Author: Rona Chong
 Date: 02/10/2016
 
 1. To access the sandbox servers remotely, you should create a pair of keys, one public and one private. The bash command ssh-keygen is to be used for this.
-2 & 3. The public and private keys will be used for authentication of your identity when you try to access one of the servers. Using the command ssh-copy-id, you can send the public key to the remote  server. The public key can only be decrypted by the private key with which it was generated, so when you attempt to connect to the server, the public key will be matched to the private key on your local computer to verify your identity.
+2. Send the public key to the remote server you wish to connect to. Using the public key, the remote server will send encrypt and send you a challenge message when you attempt a connection.
+3. Keep the private key on your local computer. When your computer receives the challenge message from the remote server, it will decrypt and encrypt it again, using the private key. Only the public key should be able to decrypt the re-encrypted message.
+
+When the re-encrypted message is sent back to the remote server, the server attempts to decrypt it back into its original form. Your identity is authenticated upon success.
