@@ -2,5 +2,7 @@
 
 while read line
 do
-    grep "HEAD"
+    if [[ $line = *HEAD* ]]; then
+	echo $line
+    fi
 done < $1
