@@ -11,3 +11,4 @@ The files in this directory are one-line scripts done as exercises in bash progr
 8-true_knowledge - prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
 9-divide_and_rule - prints the result of the environmental variables POWER divided by DIVIDE, followed by a new line
 10-love_exponent_breath - displays the result of the environmental variables BREATH to the power LOVE, followed by a new line
+11-binary_to_decimal - converts the environmental variable BINARY from base 2 to base 10 and displays that value followed by a new line
