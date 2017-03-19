@@ -1,3 +1,5 @@
+The files in this directory are one-line scripts done as exercises in bash programming.
+
 0-alias - sets "ls" as an alias for "rm *"
 1-hello_you - prints hello user, where user is the current Linux user
 2-path - adds /action to the PATH such that /action is the last directory the shell looks into when looking for a program
@@ -7,4 +9,5 @@
 6-create_local_variable - creates a new local variable called BETTY with the value Holberton
 7-create_global_variable - creates a new global variable called HOLBERTON with the value Betty
 8-true_knowledge - prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
-9-divide_and_rule - prints the result of the environmental variables POWER divided by DIVIDE, followed by a new line.
+9-divide_and_rule - prints the result of the environmental variables POWER divided by DIVIDE, followed by a new line
+10-love_exponent_breath - displays the result of the environmental variables BREATH to the power LOVE, followed by a new line
