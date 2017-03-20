@@ -13,3 +13,4 @@ The files in this directory are one-line scripts done as exercises in bash progr
 10-love_exponent_breath - displays the result of the environmental variables BREATH to the power LOVE, followed by a new line
 11-binary_to_decimal - converts the environmental variable BINARY from base 2 to base 10 and displays that value followed by a new line
 12-combinations - prints all possible combinations of two letters, except oo, with each combination on a separate line
+13-print_float - prints the number stored in the environmental variable NUM with two decimal places
