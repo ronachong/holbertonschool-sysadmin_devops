@@ -9,3 +9,4 @@
 * 7-file - a script that generates the file \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text 'Holberton School' followed by a new line.
 * 9-duplicate_last_line - a script that duplicates the last line of the file iacta in the file iacta.
 * 10-no_more_js - a script that deletes all non-directory files ending in .js in the current directory and its subdirectories.
+* 11 - a script that displays the number of directories and subdirectories in the current directory (excluding the current directory).
