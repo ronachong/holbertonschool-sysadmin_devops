@@ -12,3 +12,4 @@
 * 11 - a script that displays the number of directories and subdirectories in the current directory (excluding the current directory).
 * 12-newest_files - a script that displays the 10 newest files in the current directory, from newest to oldest.
 * 13-unique - a script that takes a list of words as input and prints only words that appear exactly once.
+* 14-findthatword - a script that displays lines containing the pattern root from the file /etc/passwd.
