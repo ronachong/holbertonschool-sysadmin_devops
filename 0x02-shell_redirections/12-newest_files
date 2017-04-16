@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ur | head -n10
+ls -Ut | head -n10
