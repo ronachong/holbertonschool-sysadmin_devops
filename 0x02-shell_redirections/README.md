@@ -7,3 +7,4 @@
 * 6-third_line - a script that displays the third line of the file iacta in the working directory.
 * 8-cwd_state - a script that writes the result of the cmd ls-la to the file ls_cwd_content.
 * 7-file - a script that generates the file \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text 'Holberton School' followed by a new line.
+* 9-duplicate_last_line - a script that duplicates the last line of the file iacta in the file iacta.
