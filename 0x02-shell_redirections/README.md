@@ -5,3 +5,4 @@
 * 4-lastlines - a script that displays the last 10 lines of the file /etc/passwd.
 * 5-firstlines - a script that displays the first 10 lines of the file /etc/passwd.
 * 6-third_line - a script that displays the third line of the file iacta in the working directory.
+* 8-cwd_state - a script that writes the result of the cmd ls-la to the file ls_cwd_content.
