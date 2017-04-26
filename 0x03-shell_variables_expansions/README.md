@@ -15,3 +15,4 @@ The files in this directory are one-line scripts done as exercises in bash progr
 12-combinations - prints all possible combinations of two letters, except oo, with each combination on a separate line
 13-print_float - prints the number stored in the environmental variable NUM with two decimal places
 14-decimal_to_hexadecimal - converts the number stored in the environmental variable DECIMAL from base 10 to base 16, and displays it, followed by a new line
+100-rot13 - a script that encodes and decodes text using the rot13 encryption
