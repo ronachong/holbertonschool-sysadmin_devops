@@ -16,3 +16,4 @@ The files in this directory are one-line scripts done as exercises in bash progr
 13-print_float - prints the number stored in the environmental variable NUM with two decimal places
 14-decimal_to_hexadecimal - converts the number stored in the environmental variable DECIMAL from base 10 to base 16, and displays it, followed by a new line
 100-rot13 - a script that encodes and decodes text using the rot13 encryption
+101-odd - a script that prints every other line from input, starting with the first line
